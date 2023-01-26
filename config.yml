@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://sumukh-pinge.github.io/" 
+title: Sumukh Pinge
 paginate: 20
 theme: PaperMod
 
@@ -84,22 +84,14 @@ params:
     socialIcons:
     - name: CV
       url: "/cv.pdf"
-    - name: Google Scholar
-      url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
+  #  - name: Google Scholar
+  #    url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
     - name: Email
-      url: "mailto:pascalmichaillat@brown.edu"
-    - name: Office Hours
-      url: /officehours/
-    - name: Zoom
-      url: "https://brown.zoom.us/my/pascalmichaillat"
+      url: "mailto:spinge@ucsd.edu"
     - name: Location
       url: /location/
     - name: GitHub
       url: "https://github.com/pmichaillat"
-    - name: YouTube
-      url: "https://www.youtube.com/@pmichaillat"
-    - name: Substack
-      url: "https://pmichaillat.substack.com"
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
